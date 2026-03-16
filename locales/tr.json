@@ -1339,5 +1339,7 @@
   "migrate_future_fc_title": "Gelecekteki FC Seviye Etkisi",
   "migrate_already_unlocked": "eyaletinizde zaten açık",
   "migrate_if_upgrade": "Yükseltirseniz gereksinim şu olur",
-  "migrate_unlocks_in": "açılmasına kalan"
+  "migrate_unlocks_in": "açılmasına kalan",
+  "migrate_see_transfer": "Transfer takvimi ve güç limitleri: /transfer",
+  "transfer_see_migrate": "Göç hesaplayıcı: /migrate"
 }
