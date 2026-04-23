@@ -1535,5 +1535,10 @@
   "auto_reddit_title": "공식 Reddit 페이지를 팔로우하세요!",
   "auto_reddit_desc": "게임 유출, 선물 코드 등을 위해:",
   "privacy_policy_btn": " 개인정보 처리방침",
-  "privacy_policy_note": " 이 봇을 사용함으로써 개인정보 처리방침에 동의합니다: https://woscontrol.com/privacy"
+  "privacy_policy_note": " 이 봇을 사용함으로써 개인정보 처리방침에 동의합니다: https://woscontrol.com/privacy",
+  "discord_leave_title": "⚠️ WOS Control Bot — 서버에서 퇴장합니다",
+  "discord_leave_why": "**봇이 왜 떠나나요?**\n현재 봇은 **{guild_count}개의 Discord 서버**에 있습니다. Discord는 100개 이상의 서버에 있는 봇에 특별 인증을 요구합니다. 이 제한을 유지하기 위해 봇은 **설정이 완료되지 않은** 서버 또는 권한이 없는 서버에서 자동으로 퇴장합니다.",
+  "discord_leave_reason": "**왜 *이* 서버가 선택되었나요?**\n이 서버는 **{joined_at}**에 추가되었지만 그 이후로 동맹 설정이 되지 않았습니다 (또는 봇에 채널 권한이 없습니다).",
+  "discord_leave_rejoin": "**봇을 다시 추가하는 방법은?**\n1. 다시 초대하세요: <{invite_url}>\n2. 봇이 참가한 직후 `/setup`을 실행하세요.",
+  "discord_leave_sorry": "불편을 드려 죄송합니다. — *WOS Control 팀*"
 }
