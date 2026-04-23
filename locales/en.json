@@ -1611,5 +1611,10 @@
   "auto_reddit_title": "Follow Our Official Reddit Page!",
   "auto_reddit_desc": "For game leaks, gift codes and more:",
   "privacy_policy_btn": " Privacy Policy",
-  "privacy_policy_note": " By using this bot you agree to our Privacy Policy: https://woscontrol.com/privacy"
+  "privacy_policy_note": " By using this bot you agree to our Privacy Policy: https://woscontrol.com/privacy",
+  "discord_leave_title": "⚠️ WOS Control Bot — Leaving Server",
+  "discord_leave_why": "**Why is the bot leaving?**\nOur bot is currently in **{guild_count} Discord servers**. Discord requires special verification for bots in more than 100 servers. To stay within this limit the bot automatically leaves servers where **setup was never completed** or where it has no permissions.",
+  "discord_leave_reason": "**Why was *this* server chosen?**\nThis server was added on **{joined_at}** and no alliance was linked since then (or the bot has no channel permissions).",
+  "discord_leave_rejoin": "**How to re-add the bot?**\n1. Re-invite: <{invite_url}>\n2. Run `/setup` immediately after the bot joins.",
+  "discord_leave_sorry": "We apologise for the inconvenience. — *WOS Control Team*"
 }
