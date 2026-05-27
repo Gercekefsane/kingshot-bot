@@ -31,7 +31,7 @@
 [![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-4169E1?style=flat-square&logo=postgresql&logoColor=white)]()
 [![Platform](https://img.shields.io/badge/Platform-Telegram%20%2B%20Discord-blue?style=flat-square)]()
-[![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20KO%20%7C%20RU%20%7C%20TR-orange?style=flat-square)](locales/)
+[![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20JA%20%7C%20KO%20%7C%20RU%20%7C%20TR-orange?style=flat-square)](locales/)
 [![Uptime](https://img.shields.io/badge/Uptime-24%2F7-brightgreen?style=flat-square)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/Gercekefsane/kingshot-bot?style=flat-square)]()
@@ -90,12 +90,12 @@ We need volunteers to report **kingdom transfer dates** for their states. Know y
 
 ## 🔢 Latest Version: v3.3.0
 
-> **Released:** 2026-03-23
+> **Released:** 2026-05-27
 
-  - **Social Media Form Tracker**: Automatic detection and processing of Google Forms shared on official game social media accounts — monitors configured accounts every 15 minutes
-  - **Smart AI Filtering**: Advanced AI analysis determines whether a detected form is a genuine reward survey before processing — eliminates irrelevant posts and design events automatically
-  - **Auto Form Registration**: Newly discovered forms are instantly analyzed, registered to the database, and submitted to all alliance members without any manual intervention
-  - **Configurable Account List**: Easily add or remove monitored social media accounts via config — supports multiple accounts simultaneously
+  - **Account Marketplace**: Buy and sell game accounts with rich listings, pricing, screenshots, and 14-day auto-expiry — full browse / search / filter experience on woscontrol.com
+  - **AI Screenshot Analysis**: Upload an account screenshot and the bot auto-extracts power, furnace level, kingdom, and gear using AI vision — no manual data entry
+  - **AI Price Suggestion**: When listing an account, see what similar accounts have sold for — a data-driven price range built from real marketplace history
+  - **Offers & Counter-Offers**: Buyers make offers; sellers accept, reject, or counter with a new price and message — a complete negotiation flow with instant notifications
 
 > 📋 **[Full Changelog →](CHANGELOG.md)**
 
@@ -551,6 +551,7 @@ Your **FID (Fighter ID)** is your unique player identifier in Kingshot.
 | Language | Code | Status |
 |----------|------|--------|
 | 🇬🇧 English | `en` | ✅ Full |
+| 🇯🇵 日本語 | `ja` | ✅ Full |
 | 🇰🇷 한국어 | `ko` | ✅ Full |
 | 🇷🇺 Русский | `ru` | ✅ Full |
 | 🇹🇷 Türkçe | `tr` | ✅ Full |
@@ -622,7 +623,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <br><br>
 
-**v3.3.0** · Last updated: 2026-05-25
+**v3.3.0** · Last updated: 2026-05-27
 
 <br>
 
